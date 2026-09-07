@@ -5,7 +5,7 @@ This file is intentionally dependency-free. It shows the orchestration ideas
 from the chapter with small local tools instead of paid APIs.
 
 Run:
-    python3 outputs/agent_orchestration_study_example.py
+    python3 agent_orchestration_study_example.py
 """
 
 from __future__ import annotations
