@@ -49,4 +49,5 @@ python3 agent_orchestration_study_example.py --section context
 ## 자료
 
 - [발표자용 상세 가이드](PRESENTATION_GUIDE.md)
+- [스터디원 배포용 읽기 스크립트](STUDY_MEMBER_SCRIPT.md)
 - [자동 검증 테스트](test_study_example.py)
